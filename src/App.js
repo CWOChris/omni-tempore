@@ -34,7 +34,9 @@ function App() {
     { timezone: 'America/Denver', name: 'Mountain Time Zone (MST)' },
     { timezone: 'America/Los_Angeles', name: 'Pacific Time Zone (PST)' },
     { timezone: 'America/Anchorage', name: 'Alaska Time Zone (AKST)' },
-    { timezone: 'Pacific/Honolulu', name: 'Hawaii-Aleutian Time Zone (HAST)' }
+    { timezone: 'Pacific/Honolulu', name: 'Hawaii-Aleutian Time Zone (HAST)' },
+    { timezone: 'Pacific/Pago_Pago', name: 'Samoa Time Zone (SST)' },
+    { timezone: 'Philippine Time', name: 'Philippine Time Zone (PHT)' }
     // Add more timezones if needed
   ];
 
