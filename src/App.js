@@ -36,7 +36,7 @@ function App() {
     { timezone: 'America/Anchorage', name: 'Alaska Time Zone (AKST)' },
     { timezone: 'Pacific/Honolulu', name: 'Hawaii-Aleutian Time Zone (HAST)' },
     { timezone: 'Pacific/Pago_Pago', name: 'Samoa Time Zone (SST)' },
-    { timezone: 'Philippine Time', name: 'Philippine Time Zone (PHT)' }
+    { timezone: 'Asia/Manila', name: 'Philippine Time Zone (PHT)' }
     // Add more timezones if needed
   ];
 
